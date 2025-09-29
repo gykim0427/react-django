@@ -1,5 +1,5 @@
-## React-Django 스터디
-React-Django 스터디
+## React-Django
+React-Django 세미 프로젝트
 
 ## 개발환경
 1. IDE
